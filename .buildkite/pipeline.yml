@@ -1,3 +1,5 @@
 steps:
   - label: "Do the thing"
-    commands: echo "Passing this test"
+    commands: sleep 30; echo "Passing this test"
+  - label: "failing this test"
+    commands: exit 1
