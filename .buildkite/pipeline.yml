@@ -1,0 +1,3 @@
+steps:
+  - label: "Do the thing"
+    commands: echo "Passing this test"
