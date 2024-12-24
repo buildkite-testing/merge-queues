@@ -1,4 +1,4 @@
-# merge-queue
+# merge-queue is a tool to manage a queue of pull requests in a GitHub repository.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque mollis diam, vitae mattis urna. Praesent ullamcorper neque et volutpat pretium. Maecenas viverra porttitor eleifend. Ut tempor tellus eu ligula malesuada sodales. In sollicitudin urna est, vel pellentesque lectus ultricies commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, dolor blandit viverra porta, tortor arcu ornare arcu, non condimentum arcu neque eu diam. Praesent ut varius ipsum.
 
 Fusce leo quam, consequat eu mauris id, volutpat blandit erat. Vestibulum consectetur maximus auctor. Cras consequat dapibus nunc a maximus. Vestibulum suscipit sed nulla ut tempor. Nunc faucibus quam ac urna aliquam ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non urna fringilla ante dignissim porttitor. Aenean lobortis ullamcorper pulvinar. Vestibulum aliquam lectus quis efficitur scelerisque. Quisque ac finibus ex, nec lobortis ipsum.
